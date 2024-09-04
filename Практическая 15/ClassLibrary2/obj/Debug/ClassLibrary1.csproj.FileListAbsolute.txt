@@ -1,0 +1,24 @@
+C:\Users\ИСП-23\source\repos\Практическая 15\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\ИСП-23\source\repos\Практическая 15\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\ИСП-23\source\repos\Практическая 15\ClassLibrary2\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\ИСП-23\source\repos\Практическая 15\ClassLibrary2\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-23\source\repos\Практическая 15\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\ИСП-23\source\repos\Практическая 15\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+E:\Практическая 15\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+E:\Практическая 15\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+E:\Практическая 15\ClassLibrary2\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+E:\Практическая 15\ClassLibrary2\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\Практическая 15\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+E:\Практическая 15\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\исп-23\Desktop\Практическая 15\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\исп-23\Desktop\Практическая 15\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\исп-23\Desktop\Практическая 15\ClassLibrary2\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\исп-23\Desktop\Практическая 15\ClassLibrary2\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\исп-23\Desktop\Практическая 15\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\исп-23\Desktop\Практическая 15\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 15\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 15\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 15\ClassLibrary2\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 15\ClassLibrary2\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 15\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 15\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

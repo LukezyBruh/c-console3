@@ -1,0 +1,36 @@
+C:\Users\исп-23\source\repos\Практическая 13\Практическая 13\bin\Debug\Практическая 13.exe.config
+C:\Users\исп-23\source\repos\Практическая 13\Практическая 13\bin\Debug\Практическая 13.exe
+C:\Users\исп-23\source\repos\Практическая 13\Практическая 13\bin\Debug\Практическая 13.pdb
+C:\Users\исп-23\source\repos\Практическая 13\Практическая 13\obj\Debug\Практическая 13.csproj.AssemblyReference.cache
+C:\Users\исп-23\source\repos\Практическая 13\Практическая 13\obj\Debug\Практическая 13.csproj.CoreCompileInputs.cache
+C:\Users\исп-23\source\repos\Практическая 13\Практическая 13\obj\Debug\Практическая 13.exe
+C:\Users\исп-23\source\repos\Практическая 13\Практическая 13\obj\Debug\Практическая 13.pdb
+C:\Users\ИСП-23\Desktop\Практическая 13\Практическая 13\bin\Debug\Практическая 13.exe.config
+C:\Users\ИСП-23\Desktop\Практическая 13\Практическая 13\bin\Debug\Практическая 13.exe
+C:\Users\ИСП-23\Desktop\Практическая 13\Практическая 13\bin\Debug\Практическая 13.pdb
+C:\Users\ИСП-23\Desktop\Практическая 13\Практическая 13\obj\Debug\Практическая 13.csproj.AssemblyReference.cache
+C:\Users\ИСП-23\Desktop\Практическая 13\Практическая 13\obj\Debug\Практическая 13.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-23\Desktop\Практическая 13\Практическая 13\obj\Debug\Практическая 13.exe
+C:\Users\ИСП-23\Desktop\Практическая 13\Практическая 13\obj\Debug\Практическая 13.pdb
+E:\Практическая 13\Практическая 13\bin\Debug\Практическая 13.exe.config
+E:\Практическая 13\Практическая 13\bin\Debug\Практическая 13.exe
+E:\Практическая 13\Практическая 13\bin\Debug\Практическая 13.pdb
+E:\Практическая 13\Практическая 13\obj\Debug\Практическая 13.csproj.AssemblyReference.cache
+E:\Практическая 13\Практическая 13\obj\Debug\Практическая 13.csproj.CoreCompileInputs.cache
+E:\Практическая 13\Практическая 13\obj\Debug\Практическая 13.exe
+E:\Практическая 13\Практическая 13\obj\Debug\Практическая 13.pdb
+C:\Users\Иришка\Desktop\Практическая 13\Практическая 13\bin\Debug\Практическая 13.exe.config
+C:\Users\Иришка\Desktop\Практическая 13\Практическая 13\bin\Debug\Практическая 13.exe
+C:\Users\Иришка\Desktop\Практическая 13\Практическая 13\bin\Debug\Практическая 13.pdb
+C:\Users\Иришка\Desktop\Практическая 13\Практическая 13\obj\Debug\Практическая 13.csproj.AssemblyReference.cache
+C:\Users\Иришка\Desktop\Практическая 13\Практическая 13\obj\Debug\Практическая 13.csproj.CoreCompileInputs.cache
+C:\Users\Иришка\Desktop\Практическая 13\Практическая 13\obj\Debug\Практическая 13.exe
+C:\Users\Иришка\Desktop\Практическая 13\Практическая 13\obj\Debug\Практическая 13.pdb
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 13\Практическая 13\bin\Debug\Практическая 13.exe.config
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 13\Практическая 13\bin\Debug\Практическая 13.exe
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 13\Практическая 13\bin\Debug\Практическая 13.pdb
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 13\Практическая 13\obj\Debug\Практическая 13.csproj.AssemblyReference.cache
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 13\Практическая 13\obj\Debug\Практическая 13.csproj.SuggestedBindingRedirects.cache
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 13\Практическая 13\obj\Debug\Практическая 13.csproj.CoreCompileInputs.cache
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 13\Практическая 13\obj\Debug\Практическая 13.exe
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 13\Практическая 13\obj\Debug\Практическая 13.pdb

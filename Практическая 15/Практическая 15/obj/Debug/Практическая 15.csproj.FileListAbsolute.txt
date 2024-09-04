@@ -1,0 +1,41 @@
+C:\Users\ИСП-23\source\repos\Практическая 15\Практическая 15\bin\Debug\Практическая 15.exe.config
+C:\Users\ИСП-23\source\repos\Практическая 15\Практическая 15\bin\Debug\Практическая 15.exe
+C:\Users\ИСП-23\source\repos\Практическая 15\Практическая 15\bin\Debug\Практическая 15.pdb
+C:\Users\ИСП-23\source\repos\Практическая 15\Практическая 15\bin\Debug\ClassLibrary2.dll
+C:\Users\ИСП-23\source\repos\Практическая 15\Практическая 15\bin\Debug\ClassLibrary2.pdb
+C:\Users\ИСП-23\source\repos\Практическая 15\Практическая 15\obj\Debug\Практическая 15.csproj.AssemblyReference.cache
+C:\Users\ИСП-23\source\repos\Практическая 15\Практическая 15\obj\Debug\Практическая 15.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-23\source\repos\Практическая 15\Практическая 15\obj\Debug\Практическая 15.csproj.CopyComplete
+C:\Users\ИСП-23\source\repos\Практическая 15\Практическая 15\obj\Debug\Практическая 15.exe
+C:\Users\ИСП-23\source\repos\Практическая 15\Практическая 15\obj\Debug\Практическая 15.pdb
+E:\Практическая 15\Практическая 15\bin\Debug\Практическая 15.exe.config
+E:\Практическая 15\Практическая 15\bin\Debug\Практическая 15.exe
+E:\Практическая 15\Практическая 15\bin\Debug\Практическая 15.pdb
+E:\Практическая 15\Практическая 15\bin\Debug\ClassLibrary2.dll
+E:\Практическая 15\Практическая 15\bin\Debug\ClassLibrary2.pdb
+E:\Практическая 15\Практическая 15\obj\Debug\Практическая 15.csproj.AssemblyReference.cache
+E:\Практическая 15\Практическая 15\obj\Debug\Практическая 15.csproj.CoreCompileInputs.cache
+E:\Практическая 15\Практическая 15\obj\Debug\Практическая 15.csproj.CopyComplete
+E:\Практическая 15\Практическая 15\obj\Debug\Практическая 15.exe
+E:\Практическая 15\Практическая 15\obj\Debug\Практическая 15.pdb
+C:\Users\исп-23\Desktop\Практическая 15\Практическая 15\bin\Debug\Практическая 15.exe.config
+C:\Users\исп-23\Desktop\Практическая 15\Практическая 15\bin\Debug\Практическая 15.exe
+C:\Users\исп-23\Desktop\Практическая 15\Практическая 15\bin\Debug\Практическая 15.pdb
+C:\Users\исп-23\Desktop\Практическая 15\Практическая 15\bin\Debug\ClassLibrary2.dll
+C:\Users\исп-23\Desktop\Практическая 15\Практическая 15\bin\Debug\ClassLibrary2.pdb
+C:\Users\исп-23\Desktop\Практическая 15\Практическая 15\obj\Debug\Практическая 15.csproj.AssemblyReference.cache
+C:\Users\исп-23\Desktop\Практическая 15\Практическая 15\obj\Debug\Практическая 15.csproj.CoreCompileInputs.cache
+C:\Users\исп-23\Desktop\Практическая 15\Практическая 15\obj\Debug\Практическая 15.csproj.CopyComplete
+C:\Users\исп-23\Desktop\Практическая 15\Практическая 15\obj\Debug\Практическая 15.exe
+C:\Users\исп-23\Desktop\Практическая 15\Практическая 15\obj\Debug\Практическая 15.pdb
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 15\Практическая 15\bin\Debug\Практическая 15.exe.config
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 15\Практическая 15\bin\Debug\Практическая 15.exe
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 15\Практическая 15\bin\Debug\Практическая 15.pdb
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 15\Практическая 15\bin\Debug\ClassLibrary2.dll
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 15\Практическая 15\bin\Debug\ClassLibrary2.pdb
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 15\Практическая 15\obj\Debug\Практическая 15.csproj.AssemblyReference.cache
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 15\Практическая 15\obj\Debug\Практическая 15.csproj.SuggestedBindingRedirects.cache
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 15\Практическая 15\obj\Debug\Практическая 15.csproj.CoreCompileInputs.cache
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 15\Практическая 15\obj\Debug\Практическая 15.csproj.CopyComplete
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 15\Практическая 15\obj\Debug\Практическая 15.exe
+E:\резерв флешки\Гуреева И.Д. ОАиП\Практическая 15\Практическая 15\obj\Debug\Практическая 15.pdb
